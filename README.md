@@ -68,10 +68,12 @@ Take the last model (5th code), and run bellow versions for 25 epochs and report
 
 ## C. Analysis
 
-* Loss and Accuract Plots
+### Loss and Accuract Plots
+
 ![alt text](https://github.com/SachinDangayach/eva5_session6/blob/master/Loss_and_Accuracy_Plots.JPEG)
 
-* GBN Results
+### GBN Results
+
 ![alt text](https://github.com/SachinDangayach/eva5_session6/blob/master/GBN_RESULTS.JPEG)
   
 
