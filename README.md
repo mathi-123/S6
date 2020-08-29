@@ -68,6 +68,11 @@ Take the last model (5th code), and run bellow versions for 25 epochs and report
 
 ## C. Analysis
 
+* Loss and Accuract Plots
+![alt text](https://github.com/SachinDangayach/eva5_session6/blob/master/Loss_and_Accuracy_Plots.JPEG)
+
+* GBN Results
+![alt text](https://github.com/SachinDangayach/eva5_session6/blob/master/GBN_RESULTS.JPEG)
   
 
 With the application of regularization, we try to modify the loss function slightly. Regularization helps to deal with the problem of overfitting.
