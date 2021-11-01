@@ -1,5 +1,5 @@
-# Submission for EVA5 Assignment 6 (Regularization) by Sachin Dangayach
-# other members Malathi,Sherin,Vignesh
+#Submission
+# Sachin Dangayach,Malathi,Sherin,Vignesh
 
 Implemented 5 different regularization on the top of last best model. Inclusion of regularization reduced the training and test accuracy. 
 EVA5_S6_NN_Regularization.ipynb contains the code for implementation and call of all different regularization's. Also, uploaded the loss and accuracy curves (Loss_and_Accuracy_Plots.JPEG).
